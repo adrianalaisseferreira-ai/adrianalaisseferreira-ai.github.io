@@ -1,0 +1,13 @@
+{
+  "name": "adrisses-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portf\u00f3lio Adrisses",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
